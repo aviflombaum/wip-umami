@@ -38,4 +38,4 @@ yarn-error.log*
 .env.production.local
 
 *.dev.yml
-
+.yarn
